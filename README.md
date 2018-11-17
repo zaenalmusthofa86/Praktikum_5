@@ -1,6 +1,7 @@
 # Praktikum_5
 
 # Latihan 1 (Mencari nilai terbesar dari  sejumlah bilangan yang diinputkan dengan fungsi loop Do While)
+```
 -Mendeklarasikan variable int a,max=0; sebagai variable input
 -Memasukkan bilangannya dengan perintah perulangan do
 -Menentukan bilangan yang terbesar dengan rumus if (a>max)
@@ -39,7 +40,7 @@ int main()
 2. while (a!=0)
 3. Do.. if (a>max) (max=a)
 4. WRITE (max)
-
+```
 -Berikut Flowchatnya:
 
 ![img](https://github.com/zaenalmusthofa86/Praktikum_5/blob/master/Flowlatihan1.png)
@@ -49,6 +50,7 @@ int main()
 ![img](https://github.com/zaenalmusthofa86/Praktikum_5/blob/master/Latihan1.png)
 
 # Latihan 2 (Contoh penggunaan program logika operator OR [||])
+```
 -Mendeklarasikan variable int a,b,c; sebagai variable input
 -Memasukkan bilangannya dengan perintah:  
 cout << "Masukkan nilai pertama :";
@@ -120,7 +122,7 @@ int main()
 7. WRITE (BENAR)
 8. else
 9. WRITE(SALAH)
-
+```
 -Berikut Flowchatnya:
 
 ![img](https://github.com/zaenalmusthofa86/Praktikum_5/blob/master/Flowlatihan2.png)
